@@ -6,10 +6,19 @@
     <description>Recent content on music in my room</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Mar 2018 01:26:27 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 04 Apr 2018 01:46:14 +0300</lastBuildDate>
     
 	<atom:link href="https://musicinmyroom.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Beatles - Octopus&#39;s Garden</title>
+      <link>https://musicinmyroom.github.io/posts/the-beatles-octopuss-garden/</link>
+      <pubDate>Wed, 04 Apr 2018 01:46:14 +0300</pubDate>
+      
+      <guid>https://musicinmyroom.github.io/posts/the-beatles-octopuss-garden/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Tiger Lillies - Tears</title>
