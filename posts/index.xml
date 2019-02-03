@@ -6,10 +6,19 @@
     <description>Recent content in Posts on music in my room</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Jul 2018 23:48:30 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 03 Feb 2019 12:06:55 +0300</lastBuildDate>
     
 	<atom:link href="https://musicinmyroom.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Децл</title>
+      <link>https://musicinmyroom.github.io/posts/detsl/</link>
+      <pubDate>Sun, 03 Feb 2019 12:06:55 +0300</pubDate>
+      
+      <guid>https://musicinmyroom.github.io/posts/detsl/</guid>
+      <description>Я помню, как летом 2000 года в мою деревню в Казахстане приехала двоюродная сестра из Новосибирска и сразу с порога спросила: &amp;ldquo;Шур, а у вас слушают Децла?&amp;rdquo; Нет, у нас в деревне в то время считалось нормальным мыться раз в неделю, никакой новой музыки. В итоге я пару дней послушал ее кассету, а потом до самой осени ходил на рынок в пиратский ларёк, чтобы не отставать от Новосибирска. Догнать сибирский город удалось только в сентябре в соседнем Петропавловске.</description>
+    </item>
     
     <item>
       <title>The Strokes - Call It Fate Call It Karma</title>
