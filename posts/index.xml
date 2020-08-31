@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on music in my room</title>
@@ -6,10 +6,21 @@
     <description>Recent content in Posts on music in my room</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 00:49:33 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:12:00 +0300</lastBuildDate>
     
 	<atom:link href="https://musicinmyroom.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Летние песни</title>
+      <link>https://musicinmyroom.github.io/posts/summer-songs/</link>
+      <pubDate>Tue, 01 Sep 2020 00:12:00 +0300</pubDate>
+      
+      <guid>https://musicinmyroom.github.io/posts/summer-songs/</guid>
+      <description>Сегодня 1 сентября, но в школу пойдем не мы, и тройку по казахской литературе получит кто-то другой. Круто. Я весь август собирался что-нибудь написать, а в итоге дотянул до осени. Ну тогда попробую выбрать три самых летних трека в своем плейлисте.
+ Vetiver - The Swimming Song
+В 2012 году мне захотелось наконец купить себе скейтборд. Всегда хотел, но стеснялся, казалось, что я уже взрослый для этого. Сел выбирать, наткнулся на лонгборды, стал смотреть ролики на ютубе, и вот первое, на что я наткнулся, это Pintail Longboards Built by Original Skateboards.</description>
+    </item>
     
     <item>
       <title>Егор Летов</title>
@@ -53,7 +64,7 @@
       <pubDate>Tue, 12 Jun 2018 14:13:27 +0300</pubDate>
       
       <guid>https://musicinmyroom.github.io/posts/mac-demarco-the-stars-keep-on-calling-my-name/</guid>
-      <description>Исторя про концерт Мака ДеМарко номер один: В 2012 году вот вот только вышел второй альбом, который так и назвался, &amp;ldquo;2&amp;rdquo;. И в ноябре выступление на фестивале &amp;ldquo;Le Guess Who?&amp;rdquo;. До этого времени я вообще ничего не знал про Мака, шел наугад.
+      <description>Исторя про концерт Мака ДеМарко номер один: В 2012 году вот вот только вышел второй альбом, который так и назвался, &amp;ldquo;2&amp;rdquo;. И в ноябре выступление на фестивале &amp;ldquo;Le Guess Who?&amp;quot;. До этого времени я вообще ничего не знал про Мака, шел наугад.
 Бар, темно, все пьют алкоголь из пластиковых многоразовых стаканчиков. Выпил - просто ставишь стакан на пол, через несколько минут его уберут, помоют и наполнят для следующего посетителя. Так же по периметру бара имеется что-то типа стойки, можно за ней сидеть, можно около нее стоять, поставив на нее бутылки или стаканы.</description>
     </item>
     
